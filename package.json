@@ -1,0 +1,26 @@
+{
+  "name": "igorslabykh-resume",
+  "version": "1.0.0",
+  "description": "npm package that will print out my resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cherezmz/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "node"
+  ],
+  "author": "Igor Slabykh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cherezmz/resume/issues"
+  },
+  "homepage": "https://github.com/Cherezmz/resume#readme",
+  "bin": {
+    "your-command-here": "./index.js"
+  }
+}
